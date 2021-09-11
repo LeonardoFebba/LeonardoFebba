@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on front-end automation 
 - 🌱 I’m currently learning JavaScript
-- ⚡ Fun fact: I'm a biggest fan of Fallout franchise, and when i start a chat in english, sometimes i talk like an NPC
+- ⚡ Fun fact: I'm a biggest fan of Fallout franchise, and when i start a chat in english, sometimes i talk like an NPC from the game
 ##
 
 <div>
