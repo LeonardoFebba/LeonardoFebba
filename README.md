@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on front-end automation 
 - 🌱 I’m currently learning JavaScript
 - ⚡ Fun fact: I'm a biggest fan of Fallout franchise, and when i start a chat in english, sometimes i talk like an NPC from the game
+- 
 ##
 
 <div>
@@ -24,4 +25,5 @@
   <a href="mailto:leonardofebba@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></img></a>
   <a href="https://www.linkedin.com/in/leonardofebba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
   <a href="https://www.facebook.com/leo.febba" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></img></a>
+  <a href="https://discord.gg/Sz8EZbU6"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></img></a>
 </div>
