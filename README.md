@@ -1,7 +1,7 @@
 ### Hello! I'm Leo. Nice to meet you  👋
 
 - 🔭 I’m currently working on front-end automation 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and PHP
 ##
 
 <div>
