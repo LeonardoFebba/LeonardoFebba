@@ -1,7 +1,8 @@
 ### Hello! I'm Leo. Nice to meet you  👋
 
-- 🔭 I’m currently working on front-end automation 
-- 🌱 I’m currently learning JavaScript and PHP
+- 🔭 I’m currently a Mid-Level Cloud Analyst, focused on Azure.
+- 🌱 I’m currently learning Power Automate
+- 💻 I'm always learning new technologies
 ##
 
 <div>
