@@ -1,8 +1,6 @@
 ### Hello! I'm Leo. Nice to meet you  👋
 
-- 🔭 I’m currently a Mid-Level Cloud Analyst, focused on Azure.
-- 🌱 I’m currently learning Power Automate
-- 💻 I'm always learning new technologies
+- 🔭 I’m currently a Mid-Level Cloud Analyst, focused on Azure and always learning new technologies!
 ##
 
 <div>
