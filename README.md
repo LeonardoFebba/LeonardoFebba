@@ -1,6 +1,6 @@
 ### Hello! I'm Leo. Nice to meet you  👋
 
-- 🔭 I’m currently a Mid-Level Cloud Analyst, focused on Azure and always learning new technologies!
+- 🔭 I’m currently a Senior Security Architect focused on Azure (Modern Workplace) and always learning new technologies!
 ##
 
 <div style="display: inline_block"><br>
